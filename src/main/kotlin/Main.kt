@@ -91,4 +91,5 @@ fun mutableVariables (input: Int, updatedNumber: Int){
 
     number = updatedNumber;       //Allowed to reassign a var too
     println("Mutable number (updated): " + number)
+
 }
